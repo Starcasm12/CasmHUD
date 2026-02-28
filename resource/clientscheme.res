@@ -7502,7 +7502,7 @@ Scheme
 		}	
 		"6" 
 		{
-			"font" "resource/TF2Build.ttf"
+			"font" "resource/fonts/Neutra Display Titling.ttf"
 			"name" "Neutra Display Titling"
 			"turkish"
 			{
