@@ -320,8 +320,13 @@
 				"wide"			"f60"
 				"tall"			"30"
 				"proportionaltoparent"	"1"
-
-	
+				
+				"if_mini"
+				{
+					"xpos"			"cs-0.5"
+					"ypos"			"rs1-3"
+					"wide"			"p1"
+				}
 
 				"CurrentXPLabel"
 				{
